@@ -4,7 +4,6 @@ const Luca = {
   pronouns: "They" | "Them",
   code: [Javascript, Typescript, HTML, CSS, ],
   tools: [React, Redux, Node, Styled-Components, Jest,],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         Student: "Soy Henry",
                        
