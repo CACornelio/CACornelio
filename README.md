@@ -24,8 +24,8 @@ front-end development. I'm currently working on a project with 2 others. Lets ne
 ## 🧙‍♀️ Other  Common  Github  Profile  Sections:
 
 - 🌱 I'm a student at Soy Henry ✍ 
-- 😄 Pronouns: They/Them / all pronouns
-- ⚡ Fun Fact: I love learning and constantly like to try and learn new things.
+- 😄 Pronouns: They / Them / all pronouns
+- ⚡ Fun Fact: I love learning and constantly like to try new things.
 
   
 ## 💼 Technical Skills:
